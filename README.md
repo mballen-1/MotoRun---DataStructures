@@ -1,2 +1,2 @@
 # MotoRun---DataStructures
-This is a java code for treating an information system, oriented to manage bycicle / motorcycle system , using Binary Search Trees data strucutre.
+This is a java code of a basic information system, oriented to manage bycicle / motorcycle flow , using Binary Search Trees data strucutre.
